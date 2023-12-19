@@ -4,12 +4,14 @@ Get external composite and RGB2HDMI video for retro\vintage computers.
 
 I created these boards so that I could get external composite video in my Kaypro II computer. Then the project expanded to include RGB2HDMI connection. Finally, it was changed so that the board could work on many retro\vintage computers.
 The first board produces composite output and RGB2HDMI connections. Both can be used at the same time. For the HDMI video to work you will need to purchase the RGBtoHDMI adapter. It is available in several places, so just search for the name on the internet.
+
 The second board used to get RGB2HDMI output. Again, you will need the adapter board to use it.
 You only need one of the two boards so make only what you need. 
 Hopefully, you find this board is good to have and let me know in which computer you are using it in
-https://github.com/RudyRetroIntel/ 
-Rudy’s Retro Intel  
 
+Rudy’s Retro Intel  
+https://github.com/RudyRetroIntel/ 
+My YouTube Channel
 https://www.youtube.com/c/RudysRetroIntel
 
 ** I have created this document based on my own work . It is offered without any warranty or guarantee. I\we are not liable for any mistakes, harms, or losses that may arise from using this board. This board is a hobbyist project. By using the using these boards, you agree to waive all\any right(s) to take legal action against me\us.
